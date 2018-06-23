@@ -1,0 +1,1 @@
+// var whisper = function (message)
